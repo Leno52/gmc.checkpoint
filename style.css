@@ -1,0 +1,56 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans:wght@700&family=Roboto&display=swap');
+
+#N1{
+    color: brown;
+    display:flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+}
+H1{
+    color: blue;
+    background-color: azure;
+    text-align: center;
+    padding: 20px;
+    font-size: 80px;
+    width: 500px;
+    margin: 40px;
+    font-family: 'Roboto', sans-serif;
+    border-style: inset;
+    border-color: brown;
+    
+}
+H2{
+    color: blueviolet;
+    background-color: aqua;
+    text-align: center;
+    padding: 15px;
+    font-size: 30px;
+    width: 400px;
+    margin-left: 80px;
+    border-style: double;
+    border-color: black;
+
+}
+p{
+    background-color: rgb(243, 249, 247);
+    font-size: 20px;
+    text-align: center;
+    margin: 8px;
+    padding-left: 15px;
+    width: 600px;
+
+}
+
+#TB{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+#IM{
+    padding: 100px;
+}
+H3{
+    text-align: center;
+    margin: 70px;
+}
